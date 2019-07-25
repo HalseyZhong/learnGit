@@ -1,2 +1,3 @@
-The git is a version control system.
-The git is free software.
+The git is a distributed version control system.
+The git is free software distributed under the GPL.
+
